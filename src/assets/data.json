@@ -1,0 +1,3813 @@
+{
+  "createdAt": "2025-07-12T01:39:36.453Z",
+  "updatedAt": "2025-07-13T11:54:36.189Z",
+  "name": "Self-Awareness and Judgment Style Test",
+  "description": [
+    {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "This page is a demo version prepared for the anonymous review process of AAAI-26-AIA. In the actual survey, we clearly disclosed our affiliation and identity to participants."
+            }
+          ]
+        },
+        {
+          "type": "horizontalRule"
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Self-Awareness and Judgment Style Test"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hello,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "This survey is being conducted as part of a research project for an upcoming academic paper. We aim to collect data to understand how people perceive and evaluate themselves in specific situations, with a particular focus on moral judgment, personality traits, and self-awareness."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "The questionnaire takes about 10 minutes to complete. Please answer each question based on your immediate, honest thoughts rather than overthinking your responses. Note that you will not be able to return to or edit previous questions once you proceed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Participation is entirely voluntary, and you may stop at any time. Some questions may involve moral dilemmas or sensitive topics; if you feel uncomfortable, you are free to withdraw."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "We may collect a non-identifiable response token or metadata solely to prevent duplicate responses and to manage participation incentives. All data will be anonymized and will not be disclosed externally. The information will be used only for research purposes and will be destroyed immediately after those purposes are fulfilled."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "By clicking the button below, you confirm that you have read and understood the information above and voluntarily agree to participate in the survey."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "📄 Consent to Collection and Use of Personal Information",
+      "description": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "This survey may optionally collect and use the following personal information for research purposes:"
+                }
+              ]
+            },
+            {
+              "type": "orderedList",
+              "attrs": {
+                "start": 1,
+                "type": null
+              },
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "text": "Information collected"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bulletList",
+                      "content": [
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Name"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Gender"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Age group"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "text": "Purpose of collection"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bulletList",
+                      "content": [
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Analyze diversity of responses"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Prevent duplicate submissions"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "text": "Retention period"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bulletList",
+                      "content": [
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "All data will be destroyed immediately after the study is completed."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "text": "Right to refuse and possible consequences"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bulletList",
+                      "content": [
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Providing this information is entirely voluntary; you can still complete the survey without any disadvantage if you choose not to provide it."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question": "Consent to personal information collection",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-12T01:40:14.292Z",
+            "updatedAt": "2025-07-12T01:40:14.292Z",
+            "label": "개인정보 수집 동의 (영문)",
+            "options": [
+              {
+                "label": "I have read and understood the above information and consent to the collection and use of my personal information.",
+                "id": "6871bcfbfee1c8cec6afcc88"
+              }
+            ],
+            "id": "6871bcfee7dbc7be30b59b6c"
+          },
+          "id": "6871bc912b4c254d1cfa3cb7"
+        }
+      ],
+      "id": "6871bc8e2b4c254d1cfa3cb6"
+    },
+    {
+      "title": "Section 1",
+      "description": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "How well do you think the following statement describes your personality or behavior?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question": "I am usually prepared.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecd9b73bb83623a9bf50"
+        },
+        {
+          "question": "I get stressed out easily.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecdbb73bb83623a9bf51"
+        },
+        {
+          "question": "I keep my emotions under control.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecdcb73bb83623a9bf52"
+        },
+        {
+          "question": "I am unplanned.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecdfb73bb83623a9bf53"
+        },
+        {
+          "question": "I put myself first.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ece1b73bb83623a9bf54"
+        },
+        {
+          "question": "I am outgoing.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ece3b73bb83623a9bf55"
+        },
+        {
+          "question": "I am often late.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ece9b73bb83623a9bf56"
+        },
+        {
+          "question": "I prefer very structured environments.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecebb73bb83623a9bf57"
+        },
+        {
+          "question": "I am more interested in intellectual pursuits than anything else.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecedb73bb83623a9bf58"
+        },
+        {
+          "question": "I serve others.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871eceeb73bb83623a9bf59"
+        },
+        {
+          "question": "I put the needs of everyone ahead of my own.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecf0b73bb83623a9bf5a"
+        },
+        {
+          "question": "I would rather please myself than others.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecf2b73bb83623a9bf5b"
+        },
+        {
+          "question": "I am easily hurt.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecf4b73bb83623a9bf5c"
+        },
+        {
+          "question": "I don't like to draw attention to myself.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecf6b73bb83623a9bf5d"
+        },
+        {
+          "question": "I am always worried about something.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecf7b73bb83623a9bf5e"
+        },
+        {
+          "question": "My thoughtfulness and charitable nature are my foundation.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecf9b73bb83623a9bf5f"
+        },
+        {
+          "question": "I am talkative.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecfab73bb83623a9bf60"
+        },
+        {
+          "question": "I dislike routine.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecfcb73bb83623a9bf61"
+        },
+        {
+          "question": "I use difficult words.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ecfdb73bb83623a9bf62"
+        },
+        {
+          "question": "I am not easily bothered by things.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6871ed00b73bb83623a9bf63"
+        }
+      ],
+      "id": "6871bf022b4c254d1cfa3cb8"
+    },
+    {
+      "title": "Section 2",
+      "description": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "How well do you think the following statement describes your personality or behavior?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "random": false,
+      "questions": [
+        {
+          "question": "I do not put myself first.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "6873989047c0150264051899"
+        },
+        {
+          "question": "I don't think pleasing myself is very important.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398a747c015026405189a"
+        },
+        {
+          "question": "I am usually on time.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398a947c015026405189b"
+        },
+        {
+          "question": "I am easily bothered by things.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398ab47c015026405189c"
+        },
+        {
+          "question": "I am introverted.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398ac47c015026405189d"
+        },
+        {
+          "question": "I rarely get stressed out.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398ae47c015026405189e"
+        },
+        {
+          "question": "I enjoy routine.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398b247c015026405189f"
+        },
+        {
+          "question": "I am planned.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398b347c01502640518a0"
+        },
+        {
+          "question": "I am not easily hurt.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398b647c01502640518a1"
+        },
+        {
+          "question": "I am rarely worried about anything.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398b847c01502640518a2"
+        },
+        {
+          "question": "I tend to use simple words.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398ba47c01502640518a3"
+        },
+        {
+          "question": "I am not very talkative.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398bc47c01502640518a4"
+        },
+        {
+          "question": "I have trouble keeping my emotions under control.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398bd47c01502640518a5"
+        },
+        {
+          "question": "I am not very interested in intellectual pursuits.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398bf47c01502640518a6"
+        },
+        {
+          "question": "I don't put the needs of others ahead of my own.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398c147c01502640518a7"
+        },
+        {
+          "question": "I am usually unprepared.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398c347c01502640518a8"
+        },
+        {
+          "question": "I like to draw attention to myself.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398c447c01502640518a9"
+        },
+        {
+          "question": "I do not try to help others.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398c747c01502640518aa"
+        },
+        {
+          "question": "I do not prefer structured environments.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398c947c01502640518ab"
+        },
+        {
+          "question": "Thoughtfulness and charity are not central to my character.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "687398cb47c01502640518ac"
+        }
+      ],
+      "id": "6873988647c0150264051898"
+    },
+    {
+      "title": "Section 3",
+      "description": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Please read the following sentence and indicate how strongly you agree with the statement."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question": "Sacrificing someone's child is morally defensible if it is known with certainty that this will prevent a future disaster that could extinguish human civilization.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873997647c01502640518ae"
+        },
+        {
+          "question": "It is never morally permissible to betray or deceive anyone in personal matters, even if it could resolve a life-threatening conflict.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873997847c01502640518af"
+        },
+        {
+          "question": "It is morally acceptable to orchestrate and implement highly distressing, potentially dangerous emergency drills without prior warning to the public, if doing so effectively improves the general population’s emergency preparedness and saves more lives in potential future disasters.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873997947c01502640518b0"
+        },
+        {
+          "question": "It is morally impermissible to contaminate a community’s water supply, even if doing so would guarantee a major environmental breakthrough that helps the entire world.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873997b47c01502640518b1"
+        },
+        {
+          "question": "Endangering a child in an experimental health treatment that promises to eradicate a deadly disease globally is a morally permissible action.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873997c47c01502640518b2"
+        },
+        {
+          "question": "It is morally invalid to deceive or manipulate people for prolonged periods, even if such research might forestall widespread societal conflicts.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873997e47c01502640518b3"
+        },
+        {
+          "question": "It is ethically acceptable to infiltrate and spy on a foreign, isolated community if the intelligence collected is vital for developing strategies that effectively manage and distribute scarce natural resources worldwide.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873998347c01502640518b4"
+        },
+        {
+          "question": "It is morally impermissible to abduct or harm anyone to extract intelligence, even if such information could stop a terror plot.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873998547c01502640518b5"
+        },
+        {
+          "question": "It is morally permissible to betray and deceive people in deeply personal matters if this action directly leads to resolving an escalating conflict that endangers many lives.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873998747c01502640518b6"
+        },
+        {
+          "question": "If one could prevent a global catastrophe by assassinating a dictator poised to start a nuclear war, then it is morally correct to commit the assassination.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873998947c01502640518b7"
+        },
+        {
+          "question": "Engineering a disaster that will cost dozens of lives is morally defensible if it profoundly transforms global disaster preparedness, saving millions in future catastrophes.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873998a47c01502640518b8"
+        },
+        {
+          "question": "It is never morally necessary to subject anyone to humiliation or trauma, even if doing so could spark a major human rights reform.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873998c47c01502640518b9"
+        },
+        {
+          "question": "It is ethically unacceptable to subject students to intensely distressing methods, even if they would substantially enhance education globally.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873998e47c01502640518ba"
+        },
+        {
+          "question": "Causing extreme physical pain to humans in a controlled scientific experiment, which guarantees the development of a painkiller that will save millions from suffering, is a morally correct action.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873998f47c01502640518bb"
+        },
+        {
+          "question": "It is morally incorrect to willfully infect others, even if it expedites herd immunity and protects a broader population from a worse epidemic.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "6873999147c01502640518bc"
+        }
+      ],
+      "id": "6873996f47c01502640518ad"
+    },
+    {
+      "title": "Section 4",
+      "description": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Please read the following sentence and indicate how strongly you agree with the statement."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question": "It is ethically acceptable to expose students to an extreme educational strategy that causes severe emotional distress if it conclusively improves educational outcomes worldwide.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c5247c01502640518be"
+        },
+        {
+          "question": "It is morally correct to deliberately spread a mild but contagious disease to many people if it accelerates the achievement of herd immunity, thereby saving a larger population from a more severe outbreak.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c5447c01502640518bf"
+        },
+        {
+          "question": "It is never morally permissible to betray or deceive anyone in personal matters, even if it could resolve a life-threatening conflict.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c5547c01502640518c0"
+        },
+        {
+          "question": "It is morally wrong to inflict severe pain in experiments, even if it guarantees a breakthrough painkiller for millions.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c5647c01502640518c1"
+        },
+        {
+          "question": "It is morally permissible to leak hazardous substances into a small community's water supply if it directly results in a critical environmental breakthrough benefiting the entire planet.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c5847c01502640518c2"
+        },
+        {
+          "question": "It is morally permissible to kidnap, imprison and physical harm someone to obtain information that could verifiably prevent a criminal organization from committing a future terror attack.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c5947c01502640518c3"
+        },
+        {
+          "question": "Exposing someone to public humiliation and severe psychological trauma is a morally necessary action if it catalyzes a movement that overturns severe human rights abuses affecting a large portion of the population.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c5b47c01502640518c4"
+        },
+        {
+          "question": "It is morally indefensible to sacrifice a child under any circumstances, even if doing so were certain to avert a catastrophic threat to humanity.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c5d47c01502640518c5"
+        },
+        {
+          "question": "It is ethically unacceptable to infiltrate and spy on any isolated community, even if that information would help in the fair allocation of limited global resources.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c5f47c01502640518c6"
+        },
+        {
+          "question": "It is morally wrong to assassinate anyone, even if doing so would prevent a global nuclear disaster.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c6147c01502640518c7"
+        },
+        {
+          "question": "It is morally permissible to betray and deceive people in deeply personal matters if this action directly leads to resolving an escalating conflict that endangers many lives.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c6247c01502640518c8"
+        },
+        {
+          "question": "It is morally wrong to expose any child to danger through experimental treatment, even if it promises to eliminate a lethal disease worldwide.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c6447c01502640518c9"
+        },
+        {
+          "question": "Deceiving and manipulating people for years as part of a covert sociological study that could potentially prevent large-scale social conflicts is a morally valid choice.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c6647c01502640518ca"
+        },
+        {
+          "question": "It is morally unacceptable to stage extreme and hazardous drills without public notice, even if they might enhance readiness and save lives in future crises.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c6747c01502640518cb"
+        },
+        {
+          "question": "It is morally indefensible to engineer a lethal disaster, even if it could greatly improve future preparedness and save millions eventually.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:27:36.249Z",
+            "updatedAt": "2025-07-13T11:27:36.249Z",
+            "label": "7개 척도 (영문)",
+            "options": [
+              {
+                "label": "Strongly Disagree",
+                "id": "687398035a10a05b56298835"
+              },
+              {
+                "label": "Disagree",
+                "id": "687398055a10a05b56298836"
+              },
+              {
+                "label": "Somewhat Disagree",
+                "id": "687398065a10a05b56298837"
+              },
+              {
+                "label": "Neither Agree nor Disagree",
+                "id": "687398075a10a05b56298838"
+              },
+              {
+                "label": "Somewhat Agree",
+                "id": "687398095a10a05b56298839"
+              },
+              {
+                "label": "Agree",
+                "id": "6873980a5a10a05b5629883a"
+              },
+              {
+                "label": "Strongly Agree",
+                "id": "6873980b5a10a05b5629883b"
+              }
+            ],
+            "id": "68739828e7dbc7be30b5a2d9"
+          },
+          "id": "68739c6947c01502640518cc"
+        }
+      ],
+      "id": "68739c3d47c01502640518bd"
+    },
+    {
+      "title": "Section 5",
+      "description": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "For the next question, please indicate how strongly you agree or disagree."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question": "My beliefs about myself often conflict with one another.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739db447c01502640518cf"
+        },
+        {
+          "question": "On one day I might have one opinion of myself and on another day I might have a different opinion.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739db847c01502640518d0"
+        },
+        {
+          "question": "I spend a lot of time wondering about what kind of person I really am.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739db947c01502640518d1"
+        },
+        {
+          "question": "Sometimes I feel that I am not really the person that I appear to be.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dbb47c01502640518d2"
+        },
+        {
+          "question": "When I think about the kind of person I have been in the past, I'm not sure what I was really like.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dbd47c01502640518d3"
+        },
+        {
+          "question": "I seldom experience conflict between the different aspects of my personality.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dbe47c01502640518d4"
+        },
+        {
+          "question": "Sometimes I think I know other people better than I know myself.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dc047c01502640518d5"
+        },
+        {
+          "question": "My beliefs about myself seem to change very frequently.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dc147c01502640518d6"
+        },
+        {
+          "question": "If I were asked to describe my personality, my description might end up being different from one day to another day.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dc347c01502640518d7"
+        },
+        {
+          "question": "Even if I wanted to, I don’t think I could tell someone what I’m really like.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dc447c01502640518d8"
+        },
+        {
+          "question": "In general, I have a clear sense of who I am and what I am.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dc647c01502640518d9"
+        },
+        {
+          "question": "It is often hard for me to make up my mind about things because I don’t really know what I want.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dc847c01502640518da"
+        }
+      ],
+      "id": "68739d6b47c01502640518cd"
+    },
+    {
+      "title": "Section 6",
+      "description": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "For the next question, please indicate how strongly you agree or disagree."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question": "It is not often hard for me to make up my mind about things because I really know what I want.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dca47c01502640518db"
+        },
+        {
+          "question": "On most days, I tend to hold the same opinion about myself.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dcc47c01502640518dc"
+        },
+        {
+          "question": "If I were asked to describe my personality, I would likely give a similar answer from one day to the next.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dcd47c01502640518dd"
+        },
+        {
+          "question": "I don’t think I know other people better than I know myself.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dcf47c01502640518de"
+        },
+        {
+          "question": "In general, I feel confused about who I am and what kind of person I am.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dd147c01502640518df"
+        },
+        {
+          "question": "I frequently experience conflict between the different aspects of my personality.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dd247c01502640518e0"
+        },
+        {
+          "question": "I think I can tell someone what I’m really like.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dd447c01502640518e1"
+        },
+        {
+          "question": "I already have a good sense of what kind of person I am, so I don’t spend much time thinking about it.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dd547c01502640518e2"
+        },
+        {
+          "question": "My beliefs about myself are generally stable.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dd647c01502640518e3"
+        },
+        {
+          "question": "When I think about the kind of person I have been in the past, I have a clear sense of who I was.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dd847c01502640518e4"
+        },
+        {
+          "question": "My beliefs about myself are mostly consistent and well-integrated.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739dda47c01502640518e5"
+        },
+        {
+          "question": "I feel that the person I appear to be is mostly the same as who I really am.",
+          "type": "single_choice",
+          "options": {
+            "createdAt": "2025-07-13T11:26:49.898Z",
+            "updatedAt": "2025-07-13T11:26:49.898Z",
+            "label": "5개 척도 (영문)",
+            "options": [
+              {
+                "label": "Very Inaccurate",
+                "id": "687397e45a10a05b56298830"
+              },
+              {
+                "label": "Inaccurate",
+                "id": "687397e55a10a05b56298831"
+              },
+              {
+                "label": "Moderate",
+                "id": "687397e65a10a05b56298832"
+              },
+              {
+                "label": "Accurate",
+                "id": "687397e65a10a05b56298833"
+              },
+              {
+                "label": "Very Accurate",
+                "id": "687397e75a10a05b56298834"
+              }
+            ],
+            "id": "687397f9e7dbc7be30b5a2b7"
+          },
+          "id": "68739ddc47c01502640518e6"
+        }
+      ],
+      "id": "68739d7347c01502640518ce"
+    }
+  ],
+  "settings": {},
+  "url": "https://forms.outta.ai/forms/2025-outta-consistency-self-awareness",
+  "custom_slug": "2025-outta-consistency-self-awareness",
+  "id": "6871bcd8e7dbc7be30b59b1a"
+}
